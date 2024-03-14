@@ -50,7 +50,7 @@ Please ensure that your contributions adhere to our [Code of Conduct](#code-of-c
 [Organization Name] is committed to providing a welcoming and inclusive environment for all members. We expect all members to adhere to our [Code of Conduct](link to code of conduct document).
 
 ## License
-This project is licensed under the [MIT License]. For more information, see the [LICENSE](link to license file) file.
+This project is licensed under the [MIT License]. For more information, see the [LICENSE](https://github.com/CGM-Team/CGM-Team.github.io/blob/main/LICENSE) file.
 
 ## Contact Us
 If you have any questions or suggestions, feel free to reach out to us at [contact email or link to contact form].
