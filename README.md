@@ -22,7 +22,11 @@ So, In this Project we have 2 Advisors
 
 ### ADVISORS:
 - Dr. Pankaj Jalote
-- Dr. Tavpritesh Sethi 
+- Dr. Tavpritesh Sethi
+
+### MEMBERS:
+- Sahil Sahu
+- Subhanshu Bansal
 
 ## Projects
 We are currently working on the following projects:
