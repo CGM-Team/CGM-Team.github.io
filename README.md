@@ -6,6 +6,9 @@ Welcome to Blood Sugar Estimation Using Biosignals! This README provides an over
 ## About Us
 Diabetes is a chronic illness that affects millions of people worldwide and requires regular monitoring of a patient’s blood glucose level. Currently, blood glucose is monitored by a minimally invasive process where a small droplet of blood is extracted and passed to a glucometer. However, this process is uncomfortable for the patient.So, In this project, we investigate a noninvasive technique for the quantitative estimation of glucose levels in the blood based on Photoplethysmography (PPG) signal, Galvanic Skin Response (GSR), and other Biosignals.
 
+![PPG Signal](https://github.com/CGM-Team/CGM-Team.github.io/blob/c18d0f6a47aab2fc61b991084833903a076b9540/images/ppg.png)
+
+
 ## Table of Contents
 1. [Mission and Vision](#mission-and-vision)
 2. [Structure](#structure)
