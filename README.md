@@ -1,10 +1,10 @@
 # NON-INVASIVE CONTINUOUS GLUCOSE MONITORING
 
 ## Overview
-Welcome to [Non-Invasive Continuous Gllucose Monitoring]! This README provides an overview of our organization, its purpose, structure, and guidelines for contributing.
+Welcome to Non-Invasive Continuous Gllucose Monitoring! This README provides an overview of our organization, its purpose, structure, and guidelines for contributing.
 
 ## About Us
-[Organization Name] is a [brief description of the organization's mission, goals, and values].
+Our Organisation was setup with the vision to measure body glucose level wihtout any blood but using body signals emitted by it.
 
 ## Table of Contents
 1. [Mission and Vision](#mission-and-vision)
