@@ -34,9 +34,11 @@ Welcome to [Organization Name]! This README provides an overview of our organiza
 [Organization Name] aims to [briefly describe the organization's mission and vision].
 
 ## Structure
-Our organization is structured as follows:
-- **Leadership**: [List of leaders or key figures in the organization, with their roles]
-- **Teams**: [Description of different teams or departments within the organization]
+So, In this Project we have 2 Advisors
+
+### ADVISORS:
+- Dr. Pankaj Jalote
+- Dr. Tavpritesh Sethi 
 
 ## Projects
 We are currently working on the following projects:
@@ -64,7 +66,7 @@ Please ensure that your contributions adhere to our [Code of Conduct](#code-of-c
 [Organization Name] is committed to providing a welcoming and inclusive environment for all members. We expect all members to adhere to our [Code of Conduct](link to code of conduct document).
 
 ## License
-This project is licensed under the [License Name]. For more information, see the [LICENSE](link to license file) file.
+This project is licensed under the [MIT License]. For more information, see the [LICENSE](link to license file) file.
 
 ## Contact Us
 If you have any questions or suggestions, feel free to reach out to us at [contact email or link to contact form].
