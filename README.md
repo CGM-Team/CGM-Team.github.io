@@ -7,5 +7,5 @@ This is the main Repository
 
 ## Members:
 
-Sahil Sahu         ----- 2020327
+Sahil Sahu         ----- 2020327 \n
 Subhanshu Bansal   ----- 2020135
