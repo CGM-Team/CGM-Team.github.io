@@ -1,23 +1,7 @@
-# Non-Invasive Continuous Glucose Monitoring
-
-This is the main Organisation Repository for the Non-Invasive Continuous Glucose Monitoring Project
-
-## Advisors
-
-<a>Prof. Dr. Pankaj Jalote</a>
-<a>Prof. Dr. Tavpritesh Sethi</a>
-
-
-
-## Members:
-
-<a>Sahil Sahu         ----- 2020327</a>
-<a>Subhanshu Bansal   ----- 2020135</a>
-
-# [Organization Name]
+# NON-INVASIVE CONTINUOUS GLUCOSE MONITORING
 
 ## Overview
-Welcome to [Organization Name]! This README provides an overview of our organization, its purpose, structure, and guidelines for contributing.
+Welcome to [Non-Invasive Continuous Gllucose Monitoring]! This README provides an overview of our organization, its purpose, structure, and guidelines for contributing.
 
 ## About Us
 [Organization Name] is a [brief description of the organization's mission, goals, and values].
