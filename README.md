@@ -1,10 +1,10 @@
-# NON-INVASIVE CONTINUOUS GLUCOSE MONITORING
+# Blood Sugar Estimation Using Biosignals
 
 ## Overview
-Welcome to Non-Invasive Continuous Gllucose Monitoring! This README provides an overview of our organization, its purpose, structure, and guidelines for contributing.
+Welcome to Blood Sugar Estimation Using Biosignals! This README provides an overview of our organization, its purpose, structure, and guidelines for contributing.
 
 ## About Us
-Our Organisation was setup with the vision to measure body glucose level wihtout any blood but using body signals emitted by it.
+Diabetes is a chronic illness that affects millions of people worldwide and requires regular monitoring of a patient’s blood glucose level. Currently, blood glucose is monitored by a minimally invasive process where a small droplet of blood is extracted and passed to a glucometer—however, this process is uncomfortable for the patient. In this project, a noninvasive technique is investigated for the quantitative estimation of glucose levels in the blood based on Photoplethysmography (PPG) signal, Galvanic Skin Response (GSR), and other Biosignals.
 
 ## Table of Contents
 1. [Mission and Vision](#mission-and-vision)
@@ -15,7 +15,7 @@ Our Organisation was setup with the vision to measure body glucose level wihtout
 6. [License](#license)
 
 ## Mission and Vision
-[Organization Name] aims to [briefly describe the organization's mission and vision].
+Blood Sugar Estimation Using Biosignals aims to research a non-invasive technique to measure blood glucose level.
 
 ## Structure
 So, In this Project we have 2 Advisors
